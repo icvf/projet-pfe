@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427262440283",
+    "project_id": "signuprestlogin-11850",
+    "storage_bucket": "signuprestlogin-11850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427262440283:android:b810779b239dd4df64e07e",
+        "android_client_info": {
+          "package_name": "com.example.signuprestlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxeKvQaj6FYaqABmPAECOWa2_cZz9tJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427262440283:android:c29de78ffa4d3ec164e07e",
+        "android_client_info": {
+          "package_name": "com.example.tawhida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxeKvQaj6FYaqABmPAECOWa2_cZz9tJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
